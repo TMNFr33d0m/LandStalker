@@ -1,0 +1,18 @@
+E:\LandStalker\obj\x86\Release\Interop.WIA.dll
+E:\LandStalker\obj\x86\Release\Interop.WMPLib.dll
+E:\LandStalker\obj\x86\Release\AxInterop.WIA.dll
+E:\LandStalker\obj\x86\Release\AxInterop.WMPLib.dll
+E:\LandStalker\obj\x86\Release\Revolusys LandStalker.vbproj.ResolveComReference.cache
+E:\LandStalker\obj\x86\Release\LandStalker.ADMININT.resources
+E:\LandStalker\obj\x86\Release\LandStalker.FI.resources
+E:\LandStalker\obj\x86\Release\LandStalker.ConactReport.resources
+E:\LandStalker\obj\x86\Release\LandStalker.LAI.resources
+E:\LandStalker\obj\x86\Release\LandStalker.RI.resources
+E:\LandStalker\obj\x86\Release\LandStalker.SplashScreen1.resources
+E:\LandStalker\obj\x86\Release\LandStalker.TAI.resources
+E:\LandStalker\obj\x86\Release\LandStalker.TopMenu.resources
+E:\LandStalker\obj\x86\Release\LandStalker.Resources.resources
+E:\LandStalker\obj\x86\Release\Revolusys LandStalker.vbproj.GenerateResource.Cache
+E:\LandStalker\obj\x86\Release\O.M.E.G.A. NadaNet LandStalker.exe
+E:\LandStalker\obj\x86\Release\O.M.E.G.A. NadaNet LandStalker.xml
+E:\LandStalker\obj\x86\Release\O.M.E.G.A. NadaNet LandStalker.pdb

@@ -1,0 +1,11 @@
+C:\Users\Cody Salazar\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\LandStalker.exe
+C:\Users\Cody Salazar\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\LandStalker.pdb
+C:\Users\Cody Salazar\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\LandStalker.xml
+C:\Users\Cody Salazar\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Cody Salazar\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\LandStalker.TopMenu.resources
+C:\Users\Cody Salazar\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\LandStalker.Resources.resources
+C:\Users\Cody Salazar\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Cody Salazar\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Cody Salazar\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\LandStalker.exe
+C:\Users\Cody Salazar\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\LandStalker.xml
+C:\Users\Cody Salazar\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\LandStalker.pdb

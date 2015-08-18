@@ -1,0 +1,90 @@
+C:\Users\Cody Salazar\documents\visual studio 2010\Projects\O.M.E.G.A. NadaNet LandStalker\O.M.E.G.A. NadaNet LandStalker\bin\Debug\O.M.E.G.A. NadaNet LandStalker.exe
+C:\Users\Cody Salazar\documents\visual studio 2010\Projects\O.M.E.G.A. NadaNet LandStalker\O.M.E.G.A. NadaNet LandStalker\bin\Debug\O.M.E.G.A. NadaNet LandStalker.pdb
+C:\Users\Cody Salazar\documents\visual studio 2010\Projects\O.M.E.G.A. NadaNet LandStalker\O.M.E.G.A. NadaNet LandStalker\bin\Debug\O.M.E.G.A. NadaNet LandStalker.xml
+C:\Users\Cody Salazar\documents\visual studio 2010\Projects\O.M.E.G.A. NadaNet LandStalker\O.M.E.G.A. NadaNet LandStalker\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Cody Salazar\documents\visual studio 2010\Projects\O.M.E.G.A. NadaNet LandStalker\O.M.E.G.A. NadaNet LandStalker\obj\x86\Debug\LandStalker.TopMenu.resources
+C:\Users\Cody Salazar\documents\visual studio 2010\Projects\O.M.E.G.A. NadaNet LandStalker\O.M.E.G.A. NadaNet LandStalker\obj\x86\Debug\LandStalker.Resources.resources
+C:\Users\Cody Salazar\documents\visual studio 2010\Projects\O.M.E.G.A. NadaNet LandStalker\O.M.E.G.A. NadaNet LandStalker\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Cody Salazar\documents\visual studio 2010\Projects\O.M.E.G.A. NadaNet LandStalker\O.M.E.G.A. NadaNet LandStalker\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Cody Salazar\documents\visual studio 2010\Projects\O.M.E.G.A. NadaNet LandStalker\O.M.E.G.A. NadaNet LandStalker\obj\x86\Debug\O.M.E.G.A. NadaNet LandStalker.exe
+C:\Users\Cody Salazar\documents\visual studio 2010\Projects\O.M.E.G.A. NadaNet LandStalker\O.M.E.G.A. NadaNet LandStalker\obj\x86\Debug\O.M.E.G.A. NadaNet LandStalker.xml
+C:\Users\Cody Salazar\documents\visual studio 2010\Projects\O.M.E.G.A. NadaNet LandStalker\O.M.E.G.A. NadaNet LandStalker\obj\x86\Debug\O.M.E.G.A. NadaNet LandStalker.pdb
+C:\Users\Cody Salazar\documents\visual studio 2010\Projects\O.M.E.G.A. NadaNet LandStalker\O.M.E.G.A. NadaNet LandStalker\obj\x86\Debug\LandStalker.FI.resources
+C:\Users\Cody Salazar\documents\visual studio 2010\Projects\O.M.E.G.A. NadaNet LandStalker\O.M.E.G.A. NadaNet LandStalker\obj\x86\Debug\LandStalker.ADMININT.resources
+C:\Users\Cody Salazar\documents\visual studio 2010\Projects\O.M.E.G.A. NadaNet LandStalker\O.M.E.G.A. NadaNet LandStalker\obj\x86\Debug\LandStalker.LAI.resources
+C:\Users\Cody Salazar\documents\visual studio 2010\Projects\O.M.E.G.A. NadaNet LandStalker\O.M.E.G.A. NadaNet LandStalker\obj\x86\Debug\LandStalker.RI.resources
+C:\Users\Cody Salazar\documents\visual studio 2010\Projects\O.M.E.G.A. NadaNet LandStalker\O.M.E.G.A. NadaNet LandStalker\obj\x86\Debug\LandStalker.TAI.resources
+C:\Users\Cody Salazar\documents\visual studio 2010\Projects\O.M.E.G.A. NadaNet LandStalker\O.M.E.G.A. NadaNet LandStalker\bin\Debug\O.M.E.G.A. NadaNet LandStalker.exe.manifest
+C:\Users\Cody Salazar\documents\visual studio 2010\Projects\O.M.E.G.A. NadaNet LandStalker\O.M.E.G.A. NadaNet LandStalker\bin\Debug\O.M.E.G.A. NadaNet LandStalker.application
+C:\Users\Cody Salazar\documents\visual studio 2010\Projects\O.M.E.G.A. NadaNet LandStalker\O.M.E.G.A. NadaNet LandStalker\obj\x86\Debug\O.M.E.G.A. NadaNet LandStalker.exe.manifest
+C:\Users\Cody Salazar\documents\visual studio 2010\Projects\O.M.E.G.A. NadaNet LandStalker\O.M.E.G.A. NadaNet LandStalker\obj\x86\Debug\O.M.E.G.A. NadaNet LandStalker.application
+C:\Users\Cody Salazar\documents\visual studio 2010\Projects\O.M.E.G.A. NadaNet LandStalker\O.M.E.G.A. NadaNet LandStalker\obj\x86\Debug\LandStalker.SplashScreen1.resources
+C:\Users\Cody Salazar\documents\visual studio 2010\Projects\O.M.E.G.A. NadaNet LandStalker\O.M.E.G.A. NadaNet LandStalker\bin\Debug\O.M.E.G.A. NadaNet LandStalker.exe.config
+C:\Users\Cody Salazar\documents\visual studio 2010\Projects\O.M.E.G.A. NadaNet LandStalker\O.M.E.G.A. NadaNet LandStalker\bin\Debug\Interop.WMPLib.dll
+C:\Users\Cody Salazar\documents\visual studio 2010\Projects\O.M.E.G.A. NadaNet LandStalker\O.M.E.G.A. NadaNet LandStalker\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Cody Salazar\documents\visual studio 2010\Projects\O.M.E.G.A. NadaNet LandStalker\O.M.E.G.A. NadaNet LandStalker\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Cody Salazar\documents\visual studio 2010\Projects\O.M.E.G.A. NadaNet LandStalker\O.M.E.G.A. NadaNet LandStalker\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Cody Salazar\documents\visual studio 2010\Projects\O.M.E.G.A. NadaNet LandStalker\O.M.E.G.A. NadaNet LandStalker\obj\x86\Debug\O.M.E.G.A. NadaNet LandStalker.vbproj.ResolveComReference.cache
+C:\LandStalker\bin\Debug\O.M.E.G.A. NadaNet LandStalker.exe.config
+C:\LandStalker\bin\Debug\O.M.E.G.A. NadaNet LandStalker.exe.manifest
+C:\LandStalker\bin\Debug\O.M.E.G.A. NadaNet LandStalker.application
+C:\LandStalker\bin\Debug\O.M.E.G.A. NadaNet LandStalker.exe
+C:\LandStalker\bin\Debug\O.M.E.G.A. NadaNet LandStalker.pdb
+C:\LandStalker\bin\Debug\O.M.E.G.A. NadaNet LandStalker.xml
+C:\LandStalker\bin\Debug\Interop.WIA.dll
+C:\LandStalker\bin\Debug\Interop.WMPLib.dll
+C:\LandStalker\bin\Debug\AxInterop.WIA.dll
+C:\LandStalker\bin\Debug\AxInterop.WMPLib.dll
+C:\LandStalker\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\LandStalker\obj\x86\Debug\Interop.WIA.dll
+C:\LandStalker\obj\x86\Debug\Interop.WMPLib.dll
+C:\LandStalker\obj\x86\Debug\AxInterop.WIA.dll
+C:\LandStalker\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\LandStalker\obj\x86\Debug\O.M.E.G.A. NadaNet LandStalker.vbproj.ResolveComReference.cache
+C:\LandStalker\obj\x86\Debug\LandStalker.ADMININT.resources
+C:\LandStalker\obj\x86\Debug\LandStalker.FI.resources
+C:\LandStalker\obj\x86\Debug\LandStalker.LAI.resources
+C:\LandStalker\obj\x86\Debug\LandStalker.RI.resources
+C:\LandStalker\obj\x86\Debug\LandStalker.SplashScreen1.resources
+C:\LandStalker\obj\x86\Debug\LandStalker.TAI.resources
+C:\LandStalker\obj\x86\Debug\LandStalker.TopMenu.resources
+C:\LandStalker\obj\x86\Debug\LandStalker.Resources.resources
+C:\LandStalker\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\LandStalker\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\LandStalker\obj\x86\Debug\O.M.E.G.A. NadaNet LandStalker.exe.manifest
+C:\LandStalker\obj\x86\Debug\O.M.E.G.A. NadaNet LandStalker.application
+C:\LandStalker\obj\x86\Debug\O.M.E.G.A. NadaNet LandStalker.exe
+C:\LandStalker\obj\x86\Debug\O.M.E.G.A. NadaNet LandStalker.xml
+C:\LandStalker\obj\x86\Debug\O.M.E.G.A. NadaNet LandStalker.pdb
+C:\LandStalker_Working_Folder\bin\Debug\O.M.E.G.A. NadaNet LandStalker.exe.config
+C:\LandStalker_Working_Folder\obj\x86\Debug\Interop.WIA.dll
+C:\LandStalker_Working_Folder\obj\x86\Debug\Interop.WMPLib.dll
+C:\LandStalker_Working_Folder\obj\x86\Debug\AxInterop.WIA.dll
+C:\LandStalker_Working_Folder\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\LandStalker_Working_Folder\obj\x86\Debug\O.M.E.G.A. NadaNet LandStalker.vbproj.ResolveComReference.cache
+C:\LandStalker_Working_Folder\obj\x86\Debug\O.M.E.G.A. NadaNet LandStalker.exe
+C:\LandStalker_Working_Folder\obj\x86\Debug\O.M.E.G.A. NadaNet LandStalker.xml
+C:\LandStalker_Working_Folder\obj\x86\Debug\O.M.E.G.A. NadaNet LandStalker.pdb
+C:\LandStalker_Working_Folder\bin\Debug\O.M.E.G.A. NadaNet LandStalker.exe.manifest
+C:\LandStalker_Working_Folder\bin\Debug\O.M.E.G.A. NadaNet LandStalker.application
+C:\LandStalker_Working_Folder\bin\Debug\O.M.E.G.A. NadaNet LandStalker.exe
+C:\LandStalker_Working_Folder\bin\Debug\O.M.E.G.A. NadaNet LandStalker.pdb
+C:\LandStalker_Working_Folder\bin\Debug\O.M.E.G.A. NadaNet LandStalker.xml
+C:\LandStalker_Working_Folder\bin\Debug\Interop.WIA.dll
+C:\LandStalker_Working_Folder\bin\Debug\Interop.WMPLib.dll
+C:\LandStalker_Working_Folder\bin\Debug\AxInterop.WIA.dll
+C:\LandStalker_Working_Folder\bin\Debug\AxInterop.WMPLib.dll
+C:\LandStalker_Working_Folder\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\LandStalker_Working_Folder\obj\x86\Debug\LandStalker.ADMININT.resources
+C:\LandStalker_Working_Folder\obj\x86\Debug\LandStalker.FI.resources
+C:\LandStalker_Working_Folder\obj\x86\Debug\LandStalker.LAI.resources
+C:\LandStalker_Working_Folder\obj\x86\Debug\LandStalker.RI.resources
+C:\LandStalker_Working_Folder\obj\x86\Debug\LandStalker.SplashScreen1.resources
+C:\LandStalker_Working_Folder\obj\x86\Debug\LandStalker.TAI.resources
+C:\LandStalker_Working_Folder\obj\x86\Debug\LandStalker.TopMenu.resources
+C:\LandStalker_Working_Folder\obj\x86\Debug\LandStalker.Resources.resources
+C:\LandStalker_Working_Folder\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\LandStalker_Working_Folder\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\LandStalker_Working_Folder\obj\x86\Debug\O.M.E.G.A. NadaNet LandStalker.exe.manifest
+C:\LandStalker_Working_Folder\obj\x86\Debug\O.M.E.G.A. NadaNet LandStalker.application
+C:\LandStalker\obj\x86\Debug\LandStalker.ConactReport.resources
